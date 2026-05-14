@@ -16,13 +16,3 @@ This repository contains the backend AI engine for the **SkinE** web application
 * `client.py`: A local terminal-based testing client (Frontend developers don't need to run this).
 * `skin_model.pth`: The trained PyTorch weights for the EfficientNet vision model *(Make sure this is uploaded!)*.
 
----
-
-## 💻 Local Setup (For Frontend/Full-Stack Devs)
-
-To run this backend locally so your frontend can communicate with it:
-
-**1. Clone the repository**
-```bash
-git clone <your-github-repo-url>
-cd <your-repo-name>
